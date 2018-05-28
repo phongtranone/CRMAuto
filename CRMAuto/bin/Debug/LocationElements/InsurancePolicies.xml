@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Home>
+	<NewButton type="xpath">//button[text()='New']</NewButton>
+	<InsuranceTextInput type="xpath">//div/input[@placeholder='Insurance policy']</InsuranceTextInput>
+	<DoneButton type="xpath">//div[@class='modal-content' and descendant::input[@placeholder='Insurance policy']]//button[text()='Done']</DoneButton>
+</Home>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Home>
+	<HamburgerMenu type="xpath">//span[@data-toggle='offcanvas']</HamburgerMenu>
+	<RegionAndMarkets type="xpath">//a[text()=' Region and Market']</RegionAndMarkets>
+	<NameOfUser type="xpath">//a[@class='dropdown-toggle s1-display-name']</NameOfUser>
+	<InsurancePoliciesMenu type="xpath">//a[text()=' Insurance policies']</InsurancePoliciesMenu>
+</Home>
