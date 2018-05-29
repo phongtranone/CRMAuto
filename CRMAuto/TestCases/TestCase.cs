@@ -9,5 +9,6 @@ namespace testSampleOne.TestCases
     public interface TestCase
     {
         void RunTest();
+        void Display();
     }
 }
