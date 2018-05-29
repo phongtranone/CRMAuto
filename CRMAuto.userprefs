@@ -1,9 +1,4 @@
 ﻿<Properties StartupConfiguration="{CC343C8C-3AA9-49F8-8593-D45F3B4EF44B}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CRMAuto/TestCases/GeneralTestCase.cs">
-    <Files>
-      <File FileName="CRMAuto/TestCases/TestCase.cs" Line="13" Column="35" />
-      <File FileName="CRMAuto/TestCases/TestRunner.cs" Line="9" Column="28" />
-      <File FileName="CRMAuto/TestCases/GeneralTestCase.cs" Line="6" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
