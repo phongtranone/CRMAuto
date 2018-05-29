@@ -9,6 +9,7 @@ namespace testSampleOne.TestCases
     public interface TestCase
     {
         void RunTest();
-        void Display();
+        void DisplayName();
+        void DisplayInformation(string id);
     }
 }
