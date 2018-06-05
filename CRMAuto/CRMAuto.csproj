@@ -60,7 +60,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Common.cs" />
     <Compile Include="Features\AddNewRequestType1.feature.cs">
       <AutoGen>True</AutoGen>
@@ -91,6 +90,8 @@
     <Compile Include="Steps\AddNewRequestTypeSteps.cs" />
     <Compile Include="Steps\CreateNewInsurancePoliciesSteps.cs" />
     <Compile Include="Steps\LogIn_Steps.cs" />
+    <Compile Include="TDD sample\AddingNumbersTests.cs" />
+    <Compile Include="TDD sample\Calculator.cs" />
     <Compile Include="TestCases\CreatInsurancePolicy.cs" />
     <Compile Include="TestCases\CreatNewMarket.cs" />
     <Compile Include="TestCases\CreatNewRegion.cs" />
